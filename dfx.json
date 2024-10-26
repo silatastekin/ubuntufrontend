@@ -1,0 +1,14 @@
+{
+  "canisters": {
+    "product": {
+      "type": "motoko",
+      "main": "src/product/main.mo"
+    }
+  },
+  "networks": {
+    "local": {
+      "bind": "127.0.0.1:8000"
+    }
+  },
+  "version": 1
+}
